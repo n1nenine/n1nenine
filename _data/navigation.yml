@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "최신글"
+    url: /
+  - title: "카테고리"
+    url: /categories/
+  - title: "태그"
+    url: /tags/
+  - title: "외부 페이지"
+    url: /hoge/
