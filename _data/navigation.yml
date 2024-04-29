@@ -1,10 +1,20 @@
 # main links
 main:
+  - title: "사회학 읽기 모임"
+    url: /circle/
   - title: "최신글"
-    url: /
+    url: /recent/
   - title: "카테고리"
     url: /categories/
   - title: "태그"
     url: /tags/
   - title: "외부 페이지"
     url: /hoge/
+
+sessions:
+  - title: "안내와 공지"
+    url: /circle/
+  - title: "과거 모임"
+    children:
+    # - title: "제 1회"
+      # url: /sessions/1/
