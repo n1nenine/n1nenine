@@ -8,8 +8,8 @@ main:
     url: /categories/
   - title: "태그"
     url: /tags/
-  - title: "외부 페이지"
-    url: /hoge/
+  # - title: "외부 페이지"
+  #   url: /hoge/
 
 sessions:
   - title: "안내와 공지"

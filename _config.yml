@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "" # "air", "aqua", "contrast", "dark", "dirt", "neon
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "나인나인.넷"
+title                    : "나인나인"
 title_separator          : "-"
-subtitle                 : "사회 없는 사회에서 사회학하기" # site tagline that appears below site title in masthead
-name                     : "나인나인.넷"
+subtitle                 : "" # site tagline that appears below site title in masthead
+name                     : "나인나인"
 description              : "공공성을 사유하는 무명의 사회학자"
 url                      : "https://n1nenine.net" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
