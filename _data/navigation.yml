@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "사회학 읽기 모임"
-    url: /circle/
+  # - title: "사회학 읽기 모임"
+  #   url: /circle/
   - title: "최신글"
     url: /recent/
   - title: "카테고리"
