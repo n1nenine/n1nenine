@@ -4,6 +4,10 @@ layout: home
 permalink: /
 date: 2024-04-01T11:48:41-04:00
 author_profile: false
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/unsplash-image-1.jpg
 # header:
 #   overlay_color: "#000"
 #   overlay_filter: "0.5"
