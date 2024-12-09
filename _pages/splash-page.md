@@ -4,6 +4,7 @@ layout: home
 permalink: /
 date: 2024-04-01T11:48:41-04:00
 author_profile: false
+title: ""
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -16,7 +17,7 @@ header:
 #     - label: "자세히 읽기"
 #       url: "https://github.com/mmistakes/minimal-mistakes/"
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "기술과 비지니스의 공공성을 생각하고, 논합니다."
+# excerpt: "기술과 비지니스의 공공성을 생각하고, 논합니다."
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
